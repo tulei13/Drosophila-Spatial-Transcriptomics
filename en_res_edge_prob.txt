@@ -1,0 +1,65 @@
+E2-4h:AMP/EE progenitors	E4-6h:AMP/EE progenitors	0.957692307692308
+E2-4h:endoderm anlage	E4-6h:endoderm anlage	0.838760713573849
+E2-4h:endoderm primordium	E4-6h:endoderm primordium	0.750929419406554
+E2-4h:midgut chamber 1 early	E4-6h:midgut chamber 1 early	0.837600411284622
+E2-4h:midgut primordium	E4-6h:endoderm primordium	0.2
+E2-4h:midgut primordium	E4-6h:midgut primordium	0.93162923642303
+E4-6h:AMP/EE progenitors	E8-10h:AMP/EE progenitors	0.954838709677419
+E4-6h:endoderm primordium	E8-10h:midgut chamber 1 early	0.331721922009639
+E4-6h:endoderm primordium	E8-10h:midgut primordium	0.275768872320596
+E4-6h:midgut chamber 1 early	E8-10h:midgut chamber 1 early	0.206230529595016
+E4-6h:midgut primordium	E8-10h:midgut chamber 1 early	0.422899159663866
+E4-6h:midgut primordium	E8-10h:midgut primordium	0.686323787258913
+E8-10h:AMP/EE progenitors	E10-12h:entero-endocrine cells	1
+E8-10h:midgut chamber 1 early	E10-12h:copper cells early	0.768496240601504
+E8-10h:midgut chamber 1 early	E10-12h:enterocytes early	0.41373618275608
+E8-10h:midgut chamber 1 early	E10-12h:midgut chamber 1 early	0.960396147476684
+E8-10h:midgut chamber 1 early	E10-12h:midgut chamber 1 late	0.603246124031008
+E8-10h:midgut chamber 1 early	E10-12h:midgut chamber 2 early	0.703764705882353
+E8-10h:midgut primordium	E10-12h:copper cells early	0.231503759398496
+E8-10h:midgut primordium	E10-12h:enterocytes early	0.58626381724392
+E8-10h:midgut primordium	E10-12h:midgut chamber 1 late	0.396753875968992
+E8-10h:midgut primordium	E10-12h:midgut chamber 2 early	0.296235294117647
+E10-12h:copper cells early	E12-14h:copper cells early	0.71536231884058
+E10-12h:copper cells early	E12-14h:enterocytes 2 mid late	0.35
+E10-12h:entero-endocrine cells	E12-14h:entero-endocrine cells	0.919221398388701
+E10-12h:enterocytes early	E12-14h:adult midgut precursors	0.237318766591791
+E10-12h:enterocytes early	E12-14h:enterocytes 1 mid	0.321980676328502
+E10-12h:enterocytes early	E12-14h:enterocytes 2 mid early	0.625542589773944
+E10-12h:midgut chamber 1 early	E12-14h:adult midgut precursors	0.597163050947286
+E10-12h:midgut chamber 1 early	E12-14h:enterocytes 1 mid	0.632141336739038
+E10-12h:midgut chamber 1 early	E12-14h:enterocytes 2 mid early	0.277322261615973
+E10-12h:midgut chamber 1 early	E12-14h:enterocytes 2 mid late	0.496428571428571
+E10-12h:midgut chamber 1 early	E12-14h:gastric caecum	0.360519480519481
+E10-12h:midgut chamber 1 early	E12-14h:midgut chamber 1 early	0.77616423126586
+E10-12h:midgut chamber 1 early	E12-14h:midgut chamber 1 late	0.209247061109492
+E10-12h:midgut chamber 1 early	E12-14h:midgut chamber 3 early	0.730612036722203
+E10-12h:midgut chamber 1 late	E12-14h:midgut chamber 1 late	0.618427116177541
+E10-12h:midgut chamber 2 early	E12-14h:gastric caecum	0.58421052631579
+E10-12h:midgut chamber 2 early	E12-14h:midgut chamber 2 early	0.883530175210902
+E10-12h:midgut chamber 2 early	E12-14h:midgut chamber 3 early	0.240483494011101
+E12-14h:adult midgut precursors	E16-18h:adult midgut precursors	0.956666666666667
+E12-14h:copper cells early	E16-18h:copper cells early	0.886666666666667
+E12-14h:entero-endocrine cells	E16-18h:entero-endocrine cells	0.982857142857143
+E12-14h:enterocytes 2 mid early	E16-18h:enterocytes 2 mid late	0.347169811320755
+E12-14h:enterocytes 2 mid late	E16-18h:enterocytes 2 mid late	0.476923076923077
+E12-14h:gastric caecum	E16-18h:gastric caecum	0.849411764705882
+E12-14h:midgut chamber 1 early	E16-18h:midgut chamber 1 early	0.639909502262443
+E16-18h:copper cells early	E18-20h:copper cells late	0.835190918472652
+E16-18h:copper cells early	E18-20h:midgut chamber 2 late	0.342640692640693
+E16-18h:enterocytes 2 mid late	E18-20h:enterocytes 1 late	0.225984654731458
+E16-18h:enterocytes 2 mid late	E18-20h:enterocytes 2 late	0.458208955223881
+E16-18h:gastric caecum	E18-20h:gastric caecum	0.988811188811189
+E16-18h:midgut chamber 1 early	E18-20h:enterocytes 1 late	0.774015345268542
+E16-18h:midgut chamber 1 early	E18-20h:enterocytes 2 late	0.525384979862592
+E16-18h:midgut chamber 1 early	E18-20h:midgut chamber 2 late	0.56875
+E18-20h:copper cells late	E20-22h:copper cells late	0.94
+E18-20h:enterocytes 1 late	E20-22h:adult midgut precursors	0.98
+E18-20h:enterocytes 1 late	E20-22h:enterocytes 1 late	0.990977443609023
+E18-20h:enterocytes 2 late	E20-22h:enterocytes	0.443074003795066
+E18-20h:enterocytes 2 late	E20-22h:enterocytes 2 late	0.954931174750758
+E18-20h:gastric caecum	E20-22h:gastric caecum	1
+E18-20h:gastric caecum	E20-22h:midgut chamber 3 late	0.624808944965892
+E18-20h:midgut chamber 2 late	E20-22h:enterocytes	0.556925996204934
+E18-20h:midgut chamber 2 late	E20-22h:midgut chamber 2 late	0.949152542372881
+E18-20h:midgut chamber 2 late	E20-22h:midgut chamber 3 late	0.335564063704767
